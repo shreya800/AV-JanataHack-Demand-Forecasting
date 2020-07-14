@@ -34,5 +34,4 @@ Generated following new features:
 (h) Count of records per 'store-id'
 Did One hot encoding for 'sku-id' & 'store-id'
 Then tuned xgboost Regressor Model
-Trained the data on Xgboost
-Tuned the above models
+
